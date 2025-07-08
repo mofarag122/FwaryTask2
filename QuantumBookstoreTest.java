@@ -1,4 +1,4 @@
-public class QuantumBookstoreFullTest{
+public class QuantumBookstoreTest{
 
     public static void main(String[] args){
         ShippingService shippingService= new SimpleShippingService();
